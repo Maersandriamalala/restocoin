@@ -8,10 +8,10 @@ donc il'i n'y a plus rien a installé de votre coté.
 Liste des fichiers:
 -CodeSourceAndroid.zip: fichier de code source de l'application Android
 -CodesourceWindowsPhone1.zip:contient une partie la code source de l'application windows phone
--CodesourceWindowsPhone2.zip;decompresser ce fichier et 
+-CodesourceWindowsPhone2.zip:decompresser ce fichier et 
  copier le dossier TropiKaly dans le dossier de CodesourceWindowsPhone1
 -Doc Installation Android.dox:document d'installation de l'appliation android
--Doc-en-user-WindowsPhone.docx:doxument de l'utilisateur pour le windows phone
+-Doc-en-user-WindowsPhone.docx:document de l'utilisateur pour le windows phone
 -Document technique:cocument technique de l'application RestoCoin
 -Lien de video de la demonstration:contient les liens de videos Youtube des déonstration Android et windows phone.
 -Script Base de données.js: contient le script de la base de données NodeJS hebergé sur OpenShift
