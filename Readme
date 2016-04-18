@@ -16,6 +16,5 @@ Liste des fichiers:
 -Lien de video de la demonstration: contient les liens de videos Youtube des démonstration Android et windows phone.
 -Script Base de données.js: contient le script de la base de données NodeJS hebergé sur OpenShift
 -ServerNodeJs.js:contient le code source de notre serveur NodeJs sur OpenShift
-
-
+- Restocoin.apk: le livrable android
 
